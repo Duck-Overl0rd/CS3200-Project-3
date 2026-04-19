@@ -197,3 +197,9 @@ LREM friendRequests:alice@email.com 1 bob@email.com
 # Clear alice's entire inbox
 DEL friendRequests:alice@email.com
 ```
+
+## Video Demo
+
+Here is the video demo of the entire project with a voice-over:
+
+https://youtu.be/f_YZ0rQWe6Q
